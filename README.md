@@ -27,7 +27,7 @@ Dynamic Org Architect je nástroj pro **analýzu vytížení manažerů (Span of
   - Specialisté a pracovníci (profese 4, 5) jsou započteni do SPOC, ale **nezahlcují schéma** (nevykreslují se jako uzly).  
   - Hierarchie je renderována **shora dolů (UD)**, s řízenými rozestupy mezi patry a uzly, aby zůstala čitelná i u rozsáhlejších struktur.
   
-- **Živé demo**: [Prohlédnout interaktivní schéma online](https://petrakubalkova.github.io/DOA-Dynamic-Org-Architect/index.html)
+- **Živé demo**: [Prohlédnout interaktivní schéma online](https://petrakubalkova.github.io/DOA-Dynamic-Org-Architect/)
 
 ### Požadované knihovny a instalace
 
