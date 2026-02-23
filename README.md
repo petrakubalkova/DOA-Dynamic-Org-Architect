@@ -110,8 +110,13 @@ python analyza_spoc.py
 ### Interpretace výsledků
 
 - **Tabulka SPOC (konzole)** – přehled manažerů s jejich SPOC, Multicompany příznakem a počtem firem.  
-- **PNG schéma** – reprezentuje manažerskou hierarchii v podobě stromu, vhodné k tištěné prezentaci a rychlému přehledu.  
+- **PNG schéma** – reprezentuje manažerskou hierarchii v podobě stromu, vhodné k tištěné prezentaci a rychlému přehledu.
+
+  ![Statické schéma](Organizacni_Schema.png)
+  
 - **HTML schéma (Pyvis)** – dovoluje přiblížení, posun, proklikávání komplexních větví a snadné čtení detailů u konkrétních manažerů.
+
+  
 
 Dynamic Org Architect je určen pro HR, top management, architekty organizace a konzultanty, kteří potřebují **rychle pochopit, jak je management vytížen a jak jsou týmy strukturovány napříč více společnostmi**.
 
